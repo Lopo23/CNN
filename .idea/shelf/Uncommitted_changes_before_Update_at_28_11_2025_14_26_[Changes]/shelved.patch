@@ -1,0 +1,200 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e453e18b-49d1-41b7-940a-f909ba200b70\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/cnn (1) (1).ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/cnn (1) (1).ipynb\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/cnn.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/cnn.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;Lopo23&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/Lopo23/CNN.git&quot;,\r\n    &quot;accountId&quot;: &quot;e12a568d-ded2-455c-98ee-6693234f454d&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 1\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"360U0PpgHX8HcI5PClHKjQW513c\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;/Users/a49176/Documents/Repos/stat_learning&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"$PROJECT_DIR$\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e453e18b-49d1-41b7-940a-f909ba200b70\" name=\"Changes\" comment=\"\" />\r\n      <created>1764142758869</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1764142758869</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"jupyter-line\">\r\n          <url>file://$PROJECT_DIR$/cnn (1) (1).ipynb</url>\r\n          <line>130</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 7cb2945fe09ab40370960269f83e36f9ff224229)
++++ b/.idea/workspace.xml	(date 1764336382769)
+@@ -5,9 +5,10 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="e453e18b-49d1-41b7-940a-f909ba200b70" name="Changes" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/stat_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stat_learning.iml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/cnn (1) (1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cnn (1) (1).ipynb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/cnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnn.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -26,7 +27,7 @@
+   <component name="GithubPullRequestsUISettings">{
+   &quot;selectedUrlAndAccountId&quot;: {
+     &quot;url&quot;: &quot;https://github.com/Lopo23/CNN.git&quot;,
+-    &quot;accountId&quot;: &quot;e12a568d-ded2-455c-98ee-6693234f454d&quot;
++    &quot;accountId&quot;: &quot;fe72a210-1bfc-472a-b17b-15879c539d3d&quot;
+   }
+ }</component>
+   <component name="ProjectColorInfo">{
+@@ -44,7 +45,13 @@
+     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;/Users/a49176/Documents/Repos/stat_learning&quot;
++    &quot;last_opened_file_path&quot;: &quot;/Users/a49176/Documents/Repos/stat_learning&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+ }</component>
+   <component name="RecentsManager">
+@@ -55,7 +62,8 @@
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
++        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
++        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+       </set>
+     </attachedChunks>
+   </component>
+@@ -66,8 +74,13 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1764142758869</updated>
++      <workItem from="1764334023818" duration="1812000" />
++      <workItem from="1764335898544" duration="478000" />
+     </task>
+     <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+@@ -76,6 +89,11 @@
+           <url>file://$PROJECT_DIR$/cnn (1) (1).ipynb</url>
+           <line>130</line>
+           <option name="timeStamp" value="1" />
++        </line-breakpoint>
++        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
++          <url>file://$PROJECT_DIR$/cnn (1) (1).ipynb</url>
++          <line>112</line>
++          <option name="timeStamp" value="2" />
+         </line-breakpoint>
+       </breakpoints>
+     </breakpoint-manager>
+Index: .idea/stat_learning.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <excludeFolder url=\"file://$MODULE_DIR$/.venv\" />\r\n      <excludeFolder url=\"file://$MODULE_DIR$/models\" />\r\n    </content>\r\n    <orderEntry type=\"jdk\" jdkName=\"Python 3.9 (stat_learning)\" jdkType=\"Python SDK\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/stat_learning.iml b/.idea/stat_learning.iml
+--- a/.idea/stat_learning.iml	(revision 7cb2945fe09ab40370960269f83e36f9ff224229)
++++ b/.idea/stat_learning.iml	(date 1764335921570)
+@@ -5,7 +5,7 @@
+       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+       <excludeFolder url="file://$MODULE_DIR$/models" />
+     </content>
+-    <orderEntry type="jdk" jdkName="Python 3.9 (stat_learning)" jdkType="Python SDK" />
++    <orderEntry type="jdk" jdkName="Python 3.9 (CNN)" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"Black\">\r\n    <option name=\"sdkName\" value=\"Python 3.9 (stat_learning)\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.9 (stat_learning)\" project-jdk-type=\"Python SDK\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 7cb2945fe09ab40370960269f83e36f9ff224229)
++++ b/.idea/misc.xml	(date 1764335921577)
+@@ -3,5 +3,5 @@
+   <component name="Black">
+     <option name="sdkName" value="Python 3.9 (stat_learning)" />
+   </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (stat_learning)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (CNN)" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
+Index: cnn (1) (1).ipynb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/cnn (1) (1).ipynb b/cnn (1) (1).ipynb
+--- a/cnn (1) (1).ipynb	(revision 7cb2945fe09ab40370960269f83e36f9ff224229)
++++ b/cnn (1) (1).ipynb	(date 1764336382628)
+@@ -137,8 +137,8 @@
+    "id": "fbc121e30a2defb3",
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2025-11-26T09:26:07.394537Z",
+-     "start_time": "2025-11-26T09:26:07.391349Z"
++     "end_time": "2025-11-28T13:23:21.500184Z",
++     "start_time": "2025-11-28T13:23:20.237592Z"
+     }
+    },
+    "source": [
+@@ -157,7 +157,27 @@
+     "                                  # Transformations für Bilder: z.B. Normalisierung, Resizing, RandomCrop, ToTensor\n",
+     "\n"
+    ],
+-   "outputs": [],
++   "outputs": [
++    {
++     "name": "stderr",
++     "output_type": "stream",
++     "text": [
++      "C:\\Users\\jfdde\\PycharmProjects\\CNN\\.venv\\lib\\site-packages\\torch\\_subclasses\\functional_tensor.py:279: UserWarning: Failed to initialize NumPy: No module named 'numpy' (Triggered internally at C:\\actions-runner\\_work\\pytorch\\pytorch\\pytorch\\torch\\csrc\\utils\\tensor_numpy.cpp:81.)\n",
++      "  cpu = _conversion_method_template(device=torch.device(\"cpu\"))\n"
++     ]
++    },
++    {
++     "ename": "ModuleNotFoundError",
++     "evalue": "No module named 'torchvision'",
++     "output_type": "error",
++     "traceback": [
++      "\u001B[1;31m---------------------------------------------------------------------------\u001B[0m",
++      "\u001B[1;31mModuleNotFoundError\u001B[0m                       Traceback (most recent call last)",
++      "Cell \u001B[1;32mIn[2], line 2\u001B[0m\n\u001B[0;32m      1\u001B[0m \u001B[38;5;28;01mimport\u001B[39;00m\u001B[38;5;250m \u001B[39m\u001B[38;5;21;01mtorch\u001B[39;00m                \u001B[38;5;66;03m# PyTorch: das Hauptframework für Deep Learning (Tensors, Autograd, Modelle, Training)\u001B[39;00m\n\u001B[1;32m----> 2\u001B[0m \u001B[38;5;28;01mimport\u001B[39;00m\u001B[38;5;250m \u001B[39m\u001B[38;5;21;01mtorchvision\u001B[39;00m          \u001B[38;5;66;03m# TorchVision: Bibliothek mit Standard-Datasets, Modellen und Bildtransformationen\u001B[39;00m\n\u001B[0;32m      3\u001B[0m \u001B[38;5;28;01mimport\u001B[39;00m\u001B[38;5;250m \u001B[39m\u001B[38;5;21;01mtorch\u001B[39;00m\u001B[38;5;21;01m.\u001B[39;00m\u001B[38;5;21;01mnn\u001B[39;00m\u001B[38;5;250m \u001B[39m\u001B[38;5;28;01mas\u001B[39;00m\u001B[38;5;250m \u001B[39m\u001B[38;5;21;01mnn\u001B[39;00m       \u001B[38;5;66;03m# nn = Neural Network Module: für das Erstellen von Layern (z.B. Conv2d, Linear, ReLU)\u001B[39;00m\n\u001B[0;32m      4\u001B[0m \u001B[38;5;28;01mimport\u001B[39;00m\u001B[38;5;250m \u001B[39m\u001B[38;5;21;01mtorch\u001B[39;00m\u001B[38;5;21;01m.\u001B[39;00m\u001B[38;5;21;01mnn\u001B[39;00m\u001B[38;5;21;01m.\u001B[39;00m\u001B[38;5;21;01mfunctional\u001B[39;00m\u001B[38;5;250m \u001B[39m\u001B[38;5;28;01mas\u001B[39;00m\u001B[38;5;250m \u001B[39m\u001B[38;5;21;01mF\u001B[39;00m  \u001B[38;5;66;03m# Funktionale API: für direkte Nutzung von Aktivierungsfunktionen, Losses, etc. (z.B. F.relu)\u001B[39;00m\n",
++      "\u001B[1;31mModuleNotFoundError\u001B[0m: No module named 'torchvision'"
++     ]
++    }
++   ],
+    "execution_count": 2
+   },
+   {
+@@ -168,9 +188,8 @@
+   },
+   {
+    "metadata": {
+-    "ExecuteTime": {
+-     "end_time": "2025-11-26T09:31:05.150467Z",
+-     "start_time": "2025-11-26T09:26:11.909185Z"
++    "jupyter": {
++     "is_executing": true
+     }
+    },
+    "cell_type": "code",
+@@ -201,17 +220,8 @@
+     "test_loader  = DataLoader(test_dataset,  batch_size=1000, shuffle=False)\n"
+    ],
+    "id": "2e3d8bb0352fee3e",
+-   "outputs": [
+-    {
+-     "name": "stderr",
+-     "output_type": "stream",
+-     "text": [
+-      "100.0%\n",
+-      "100.0%\n"
+-     ]
+-    }
+-   ],
+-   "execution_count": 3
++   "outputs": [],
++   "execution_count": null
+   },
+   {
+    "metadata": {},
