@@ -10,7 +10,6 @@ import scipy.io
 import torch
 from torch.utils.data import Dataset, DataLoader
 import torchvision.transforms as transforms
-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
 class SVHNDataset(Dataset):
     def __init__(self, mat_file, transform=None):
         data = scipy.io.loadmat(mat_file)
