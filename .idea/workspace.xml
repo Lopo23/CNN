@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e453e18b-49d1-41b7-940a-f909ba200b70" name="Changes" comment="anpassungen">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/stat_learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/stat_learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cnn (1) (1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cnn (1) (1).ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnn_svhn.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +21,12 @@
     &quot;assignee&quot;: &quot;Lopo23&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:Lopo23/CNN.git",
-    "accountId": "e12a568d-ded2-455c-98ee-6693234f454d"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Lopo23/CNN.git&quot;,
+    &quot;accountId&quot;: &quot;e12a568d-ded2-455c-98ee-6693234f454d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -102,21 +99,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="anpassungen" />
     <option name="LAST_COMMIT_MESSAGE" value="anpassungen" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/cnn (1) (1).ipynb</url>
-          <line>41</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/cnn (1) (1).ipynb</url>
-          <line>84</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
