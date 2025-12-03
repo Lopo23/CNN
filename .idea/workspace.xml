@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e453e18b-49d1-41b7-940a-f909ba200b70" name="Changes" comment="anpassungen">
-      <change afterPath="$PROJECT_DIR$/cnn_svhn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnn_svhn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cnn_svhn.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
